@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "vecAn_ДЗ1/1.0.0": {
+        "runtime": {
+          "vecAn_ДЗ1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vecAn_ДЗ1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

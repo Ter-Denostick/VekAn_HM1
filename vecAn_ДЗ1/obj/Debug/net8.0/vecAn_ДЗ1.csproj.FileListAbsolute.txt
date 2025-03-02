@@ -1,0 +1,14 @@
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\bin\Debug\net8.0\vecAn_ДЗ1.exe
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\bin\Debug\net8.0\vecAn_ДЗ1.deps.json
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\bin\Debug\net8.0\vecAn_ДЗ1.runtimeconfig.json
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\bin\Debug\net8.0\vecAn_ДЗ1.dll
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\bin\Debug\net8.0\vecAn_ДЗ1.pdb
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\obj\Debug\net8.0\vecAn_ДЗ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\obj\Debug\net8.0\vecAn_ДЗ1.AssemblyInfoInputs.cache
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\obj\Debug\net8.0\vecAn_ДЗ1.AssemblyInfo.cs
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\obj\Debug\net8.0\vecAn_ДЗ1.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\obj\Debug\net8.0\vecAn_ДЗ1.dll
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\obj\Debug\net8.0\refint\vecAn_ДЗ1.dll
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\obj\Debug\net8.0\vecAn_ДЗ1.pdb
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\obj\Debug\net8.0\vecAn_ДЗ1.genruntimeconfig.cache
+C:\Users\defaultuser\Desktop\vecAn_ДЗ1\obj\Debug\net8.0\ref\vecAn_ДЗ1.dll
